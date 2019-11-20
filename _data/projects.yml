@@ -3,14 +3,14 @@
 
 # donutfinder.io
 - project: Florence
-  role: Founder & Primary Developer
+  # role: Founder & Primary Developer
   # duration:
   url: "https://github.com/wesley-wong/florence-final-project"
-  description: This is a two-week project building an app from ideation to deployment. Florence is a workflow app for nurses built with the goal of reducing patient uncertainty and improving nurse efficiency. <strong>Stack Requirements:</strong> React, Babel, Bulma, Express, Node.js, PostgreSQL, Webpack, Websockets
+  description: This is a two-week project building an app from ideation to deployment. Florence is a workflow app for nurses built with the goal of reducing patient uncertainty and improving nurse efficiency. <p><strong>Stack Requirements:</strong> React, Babel, Bulma, Express, Node.js, PostgreSQL, Webpack, Websockets</p>
 
 #Springfield Donut Eater's User Group
 - project: Springfield Donut Eater's User Group
-  role: Co-Founder & Organizer
+  # role: Co-Founder & Organizer
   # duration:
   url: "https://github.com/wesley-wong/chatty"
-  description: A five day project that will allow users to communicate with each other in real-time using web sockets. <strong>Stack Requirements:</strong>  React, Babel, Express, Node, Sass, Webpack
+  description: A five day project that will allow users to communicate with each other in real-time using web sockets. <p><strong>Stack Requirements:</strong>  React, Babel, Express, Node, Sass, Webpack</p>
