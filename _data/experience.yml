@@ -1,19 +1,11 @@
 # Jobs
 # Springfield Nuclear Power Plant
-- company: Springfield Nuclear Power Plant
-  position: Safety Inspector
-  duration: Nov, 1980 &mdash; Present
-  summary: Write about your core competencies in one or two sentences describing your position. If you held the position for a long time, it could be a longer section, including a couple bullet points	<ul class="resume-item-list"><li>Ate lots of donuts</li><li>Fell asleep rarely</li><li>Left promptly at end of day (sometimes earlier)</li></ul>
+- company: Machool Technologies Ltd.
+  position: Software Developer
+  duration: Dec, 2017 &mdash; Sept. 2019
+  summary: Notable work and accomplishments&#58;	<ul class="resume-item-list"><li>Designing, implementing and testing REST endpoints for DHL, Canada Post, Shopify, WooCommerce integration</li><li>Reducing web page load time of application to 1/5, using lazy-loading, modularization, and AOT compilation</li><li>Reducing application build time and deployment to 1/6 by optimizing Webpack, Angular CLI, google app engine</li><li>Introducing and implementing unit tests covering 70% and e2e testing using Karma/Jasmine and Page Objects</li><li>Updating app forms to use Angular Reactive forms over Template-Driven forms to handle complicated form validation</li><li>Updating app to be mobile responsive through SCSS and added cross-browser compatibility including Chrome, Edge, Firefox, Safari</li><li>Working within an agile team to collaborate with the designer/PM, implementing, testing and releasing features using Jenkins</li></ul> <strong>Skills/Languages:</strong> Angular, SCSS, Webpack, NodeJS, NoSQL, SQL, Docker, Google Cloud, Linux
 
-# Windmill Crank Operator
-- company: Sir Putt-A-Lot's Merrie Olde Fun Centre
-  position: Safety Inspector
-  duration:  Jun, 1978 &mdash; Sept, 1979
-  summary: If your stint was shorter, feel free to be brief and just call out the most meaningful points of your role. Be concise, and be meaninful. The person reading just needs enough to want to talk to you more about your experience.
-
-
-# Front Desk Attendant
-- company: Simpson Lazer Tag
-  position: Front Desk Attendant
-  duration:   Jun, 1975  &mdash; May, 1978
-  summary: Boy, when Marge first told me she was going to the Police Academy, I thought it would be fun and exciting, you know, like the movie... Spaceballs. But instead, it's been painful and disturbing, like the movie Police Academy.
+- company: Lighthouse Labs
+  position: Junior Web Developer
+  duration:  May, 2017 &mdash; Oct, 2017
+  summary: <ul class="resume-item-list"><li>Using Ruby on Rails to build a REST backend that queries student data, such as completion rate per student per cohort, and visualize it using a React Frontend</li><li>Providing mentorship and review of the prep course for new students enrolled in the web development boot camp</li><li>Conducting one-on-one technical interview with applicants for the admissions team</li><li>Use Dokku to deploy instances of Compass</li></ul> <strong>Skills/Languages:</strong> React, Ruby on Rails, ActiveRecord, SCSS

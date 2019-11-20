@@ -11,12 +11,12 @@ sass:
 # Resume settings
 resume_avatar:                  "true"
 resume_name:                    "Wesley Wong"
-resume_title:                   "Fullstack Web Developer"
+resume_title:                   "Software Developer"
 resume_contact_email:           "wes.wong@outlook.com"
 resume_contact_telephone:       "778-999-4274"
-resume_contact_address:         "4563 W 14th Ave, Vancouver"
-resume_header_contact_info: "4563 W 14th Ave, Vancouver | 778-999-4274 | wes.wong@outlook.com"
-resume_header_intro: "<p>I'm Web Developer experienced using at Ruby on Rails and React to deliver real-time CRUD applications. I strive in team environments where proper communication and accountability is key to success. I'm looking for an environment in which I can grow and write better code.</p>"
+resume_contact_address:         "550 Pacific St., Vancouver"
+resume_header_contact_info: "550 Pacific St., Vancouver | 778-999-4274 | wes.wong@outlook.com"
+resume_header_intro: "<p>While trying to escape a stock boy job at Kin's market I learned to code a python asteroids game. It was very simple: you control a ship and can fire missiles, but don't touch the asteroids, or you will explode, showing a Game Over. At least it should, except the ship kept on exploding, infinitely. I spent hours on this silly little project, and in doing so realized how much fun it is to code.</p><p >I went to the Lighthouse Labs, where I met like-minded people and learned the basics, then, from my cohort of ~20 job-seekers, was offered an opportunity to return as an intern. This helped me sharpen my basics. At Machool, I switched from Ruby/React to NodeJS+Express/Angular. Here we used the agile development, and where I began to specialize in building efficient, intuitive (and beautiful) applications.</p>"
 
 # use "yes" to display the email contact button,
 # "no" to display an "I'm not looking for work" message,
