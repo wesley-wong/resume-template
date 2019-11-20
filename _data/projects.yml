@@ -9,7 +9,7 @@
   description: This is a two-week project building an app from ideation to deployment. Florence is a workflow app for nurses built with the goal of reducing patient uncertainty and improving nurse efficiency. <p><strong>Stack Requirements:</strong> React, Babel, Bulma, Express, Node.js, PostgreSQL, Webpack, Websockets</p>
 
 #Springfield Donut Eater's User Group
-- project: Springfield Donut Eater's User Group
+- project: Chatty
   # role: Co-Founder & Organizer
   # duration:
   url: "https://github.com/wesley-wong/chatty"
